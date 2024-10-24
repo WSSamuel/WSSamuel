@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A Pharmacology graduate with an interest in data analytics!</h3>
-
-- 👨‍💻 My portfolio is available at [https://wssamuel.github.io/](https://wssamuel.github.io/#portfolio)
 
 - 📫 Reach me at **ws.samuelwong@gmail.com**
 
